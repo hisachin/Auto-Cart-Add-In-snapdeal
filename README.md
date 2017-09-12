@@ -3,6 +3,6 @@ This script will add the product from snapdeal to user cart automatic
 
 Stack Used For This
 
-Pyhon
+Python
 selenium
 beautifulSoap
